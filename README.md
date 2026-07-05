@@ -63,16 +63,6 @@ A modern Android application designed to help users manage their personal financ
 
 ---
 
-# Screenshots
-
-> Screenshots coming soon.
-
-| Dashboard | Expenses | Budget | Analytics |
-|-----------|----------|--------|-----------|
-| Add Screenshot | Add Screenshot | Add Screenshot | Add Screenshot |
-
----
-
 # Tech Stack
 
 ## Language
