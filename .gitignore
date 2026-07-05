@@ -1,0 +1,32 @@
+# Android Studio
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Local config
+local.properties
+
+# Secrets
+.env
+.env.*
+*.jks
+*.keystore
+keystore.properties
+google-services.json
+serviceAccountKey.json
+
+# Generated
+captures/
+.externalNativeBuild/
+.cxx/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+.gradle-tmp/
+gradle-*.zip
