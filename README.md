@@ -126,27 +126,6 @@ app/
 
 ---
 
-# Installation
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/monthly-budget-keeper.git
-```
-
-2. Open the project in Android Studio.
-
-3. Add your Firebase configuration:
-
-```
-google-services.json
-```
-
-4. Configure Firebase Authentication and Firestore.
-
-5. Build and run the application.
-
----
 
 # Requirements
 
